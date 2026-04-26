@@ -1,0 +1,11 @@
+{
+    "name": "laboratorio-4",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "scripts": {
+        "start": "node servidor-express.js"
+    }
+}
